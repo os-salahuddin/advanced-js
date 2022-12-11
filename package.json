@@ -2,6 +2,11 @@
   "type": "module",
   "dependencies": {
     "esm": "^3.2.25",
-    "node-fetch": "^3.3.0"
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.3.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
   }
 }

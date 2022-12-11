@@ -8,4 +8,4 @@ function person()
 }
 
 let personObj = new person();
-console.log(personObj('SE'));
+global.console.log(personObj('SE'));
